@@ -4,6 +4,6 @@ This folder contains the "Option sur spread" project completed as part of the PR
 
 ## Contents:
 
-- **Code.ipynb:** Jupyter Notebook containing the code implementation for the spread option project.
-- **Rapport.pdf:** Report detailing the project in French.
-- **Sujet.pdf:** Project assignment document outlining the requirements and objectives.
+- `Code.ipynb`: Jupyter Notebook containing the code implementation for the spread option project.
+- `Rapport.pdf`: Report detailing the project in French.
+- `Sujet.pdf`: Project assignment document outlining the requirements and objectives.
