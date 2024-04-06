@@ -4,5 +4,5 @@ This folder contains the bibliographical study conducted during my research inte
 
 ## Contents:
 
-- **A Simple Model for the Balance between Selection and Mutation.pdf:** Research report in English.
-- **Un modèle simple pour l'équilibre entre sélection et mutation.pdf:** Rapport de recherche en français.
+- `A Simple Model for the Balance between Selection and Mutation.pdf`: Research report in English.
+- `Un modèle simple pour l'équilibre entre sélection et mutation.pdf`: Rapport de recherche en français.
